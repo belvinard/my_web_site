@@ -1,0 +1,11 @@
+#top-banner {
+    height: 50px;
+    background-color: #333;
+    color: #fff;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    /* Ajoutez d'autres styles nécessaires */
+}
